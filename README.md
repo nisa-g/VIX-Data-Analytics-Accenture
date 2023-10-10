@@ -23,7 +23,8 @@ To start our engagement with Social Buzz, we have embarked on a 3 month pilot wi
 
 Social Buzz needs help with its user’s data and due to their rapid growth and digital nature of their core product, the amount of data that they create, collect and must analyze is huge. They are still a small company and do not have the resources to manage the scale that they are currently at. The platform receives over 100,000 posts per day, of which, this is all unstructured data making it very hard to make sense of.
 
-**Business Problem:** 
+**Business Problem:**<br>
+
 Client has reached a massive scale within recent years and limited resources to internally handle it.
 
 **Business Objective:** 
@@ -42,7 +43,7 @@ The client provided Accenture with 3 datasets:
 
 ### **Background Information**
 
-Social Buzz team is looking to boost business by analysing their existing user’s dataset to determine contents trends and popularity. Using the existing 3 datasets (Contents, Reactions and Reaction Types) as a labelled dataset, we will recommend which of these content categories should be targeted to drive the most value for the organization.
+Social Buzz team is looking to boost business by analysing their existing user’s dataset to determine contents trends and popularity. Using the 3 existing datasets (Contents, Reactions and Reaction Types) as a labelled dataset, we will recommend which of these content categories should be targeted to drive the most value for the organization.
 
 ## **Data Cleaning**
 
